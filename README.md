@@ -1,2 +1,2 @@
-# CIC-WCF
-this is "CIC-WCF" paper
+# CBV-WCF
+this is "CBV-WCF" paper
