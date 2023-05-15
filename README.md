@@ -6,3 +6,4 @@ this is "CBV-WCF" paper
 [Download the Datasets](http://www.patreo.dcc.ufmg.br/multi-view-datasets/)
 
 # Citation:
+If you find our work is useful, please kindly cite the following: BibTex
