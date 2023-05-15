@@ -3,5 +3,6 @@ this is "CBV-WCF" paper
 # Introduction
 
 # Dataset
-http://www.patreo.dcc.ufmg.br/multi-view-datasets/
+[Download the Datasets](http://www.patreo.dcc.ufmg.br/multi-view-datasets/)
+
 # Citation:
