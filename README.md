@@ -1,7 +1,7 @@
 # When Complementarity Meets Consistency: Weighted Collaboration Fusion Constrained by Consistency Between Views for Multi-View Urban Scene Classification
 this is "CBV-WCF" paper
 # Introduction
-1. A novel multi-input-multi-output (MIMO) architecture is proposed to implement end-to-end inference when there are some missing views in the input sample pairs. This greatly increases its flexibility and convenience, making it widely used in multi-view situations.
+1. A novel Coupled Parallel Architecture (CPA) is proposed to implement end-to-end inference when there are some missing views in the input sample pairs. This greatly increases its flexibility and convenience, making it widely used in multi-view situations.
 2. A Weighted Collaboration Fusion (WCF) module is proposed to fully explore and effectively fuse the potential complementary information between different views. WCF adopts the fusion strategy of “each takes what he needs”, which not only guarantees the independence and integrity of feature extraction from original views, but also fully and adaptively fuses complementary features required by views, significantly improving the performance of fusion classification in scenes with large feature differences between views.
 3. An Consistency Between Views (CBV) module is proposed to extract cross-view consistency information. The network can give feature consistency precedence over semantic consistency using CBV. This can somewhat lessen the challenges posed by inter-class similarity and intra-class diversity, enhancing the model's performance in classification and its portability to other related tasks.
 
