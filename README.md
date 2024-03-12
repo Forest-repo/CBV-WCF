@@ -10,3 +10,14 @@ this is "CBV-WCF" paper
 
 # Citation:
 If you find our work is useful, please kindly cite the following: BibTex
+
+@article{zhao2023complementarity,
+  title={When complementarity meets consistency: weighted collaboration fusion constrained by consistency between views for multi-view remote sensing scene classification},
+  author={Zhao, Kun and Li, Senlin and Zhou, Lijian and Sun, Jie and Hao, Siyuan},
+  journal={International Journal of Remote Sensing},
+  volume={44},
+  number={23},
+  pages={7492--7514},
+  year={2023},
+  publisher={Taylor \& Francis}
+}
