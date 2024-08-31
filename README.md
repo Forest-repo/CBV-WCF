@@ -1,7 +1,7 @@
 # When Complementarity Meets Consistency: Weighted Collaboration Fusion Constrained by Consistency Between Views for Multi-View Urban Scene Classification
 this is "CBV-WCF" paper
 
-<img src="ALL.jpg" alt="Overall Architecture About CBV-WCF" style="width:100%;">
+![Overall Architecture About CBV-WCF](ALL.jpg)
 
 # Introduction
 1. A novel Coupled Parallel Architecture (CPA) is proposed to implement end-to-end inference when there are some missing views in the input sample pairs. This greatly increases its flexibility and convenience, making it widely used in multi-view situations.
