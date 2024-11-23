@@ -1,6 +1,7 @@
 # When Complementarity Meets Consistency: Weighted Collaboration Fusion Constrained by Consistency Between Views for Multi-View Urban Scene Classification
 
 this is "CBV-WCF" paper
+
 [Journal website address](https://www.tandfonline.com/doi/full/10.1080/01431161.2023.2285741)
 
 
